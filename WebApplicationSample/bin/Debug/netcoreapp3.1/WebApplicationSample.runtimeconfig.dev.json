@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rondeen/.dotnet/store/|arch|/|tfm|",
+      "/Users/rondeen/.nuget/packages"
+    ]
+  }
+}
